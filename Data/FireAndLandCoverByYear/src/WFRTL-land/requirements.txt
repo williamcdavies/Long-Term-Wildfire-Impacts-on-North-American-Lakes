@@ -1,0 +1,9 @@
+affine          >= 2.4.0
+geopandas       >= 1.1.3
+numpy           >= 2.4.4
+pandas          >= 3.0.2
+rasterio        >= 1.5.0
+shapely         >= 2.1.2
+types-affine    >= 0.1.0
+types-geopandas >= 1.1.3.20260402
+types-shapely   >= 2.1.0.20260402
